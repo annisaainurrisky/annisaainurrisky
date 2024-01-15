@@ -1,4 +1,4 @@
-# Hello, Welcome to my Github Profile ![Tes](https://tenor.com/view/hi-good-morning-cat-hello-gif-15594026)
+# Hello, Welcome to my Github Profile😼
 
 🚀 Frontend Engineer | UX Enthusiast
 
