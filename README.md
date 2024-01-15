@@ -1,6 +1,9 @@
-# 🏄‍♀️ Annisa Ainur Risky
+# Hello, Welcome to my Github Profile ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/view/hi-good-morning-cat-hello-gif-15594026)
 
-**`Frontend Engineer`**
+🚀 Frontend Engineer | UX Enthusiast
+
+I'm Annisa Ainur Risky, a dedicated Frontend Engineer with a flair for creating immersive and intuitive user experiences. My expertise lies in leveraging technologies such as React.js, TypeScript, and Tailwind CSS to transform ideas into elegant and functional web applications.
+
 ---
 
 <!--
