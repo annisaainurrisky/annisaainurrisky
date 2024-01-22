@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Annisa Ainur Risky</h1>
+<h1 align="center">Hello, I'm Annisa Ainur Risky</h1>
 <h3 align="center">Frontend Engineer | UI/UX Enthusiast</h3>
 <img align="right" alt="Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 
