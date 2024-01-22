@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **How to be an independent woman**
-
 - 📫 How to reach me **annisaainur.risky@gmail.com**
 
 - ⚡ Fun fact **Challenging new things keep my life from getting boring**
